@@ -1,0 +1,19 @@
+{
+  "title": "Omayma Said", 
+  "type": "blog",
+  "url": "https://www.onceupondata.com", 
+  "rss_feed": "https://www.onceupondata.com/index.xml", 
+  "photo_url": "https://www.onceupondata.com/img/logo.png", 
+  "language": "en", 
+  "authors": [
+    {
+      "name": "Omayma", 
+      "social_media": [{
+         "twitter": "OmaymaS_",
+         "mastodon": "@dair-community.social/@OmaymaS",
+         "github": "OmaymaS",
+         "website": "https://www.onceupondata.com",
+      }]
+    }
+  ]
+}
